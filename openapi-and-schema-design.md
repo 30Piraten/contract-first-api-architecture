@@ -757,7 +757,7 @@ flowchart TD
     Feedback --> CICD
 ```
 
-Click [spectral ruleset](../examples/openapi/.spectral.yaml) for complete rules.
+Click [spectral ruleset](openapi/.spectral.yaml) for complete rules.
 
 ### Rule 1: Require Problem Details fields
 
@@ -945,7 +945,7 @@ Install the CLI:
 npm install -g @stoplight/spectral-cli
 ```
 
-Click [enterprise payment contract](../examples/openapi/enterprise_payment_contract.yaml) to see full contract.
+Click [enterprise payment contract](openapi/enterprise_payment_contract.yaml) to see full contract.
 
 Then run:
 
